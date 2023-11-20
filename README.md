@@ -50,6 +50,9 @@ Visuals                           |                          Insights
 ![](Attrition_Travels&_Gender.png)     |  66.06% of the total attrition traveled rarely while 28.66% of the total attrition traveled frequently, and 5.28% of them never traveled. For each age group, there were more more males than females.
 
 
+Interact with Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODhiMjY4OTAtZjRlMi00YmYxLWFhZDgtZjY0OTgwMmMyMTE2IiwidCI6ImFiYjU3ODg3LTNmY2ItNDgyNy1iODJiLThiZjU4ZWRjNTlhYSJ9)
+
+
 ## Conclusion and Recommendations
 
 Based on the analysis conducted in this project, the following conclusions and recommendations can be made:
@@ -62,6 +65,4 @@ Based on the analysis conducted in this project, the following conclusions and r
 
 By following these recommendations, organizations can potentially reduce attrition rates and create a more stable and productive workforce.
 
-
-Interact with Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODhiMjY4OTAtZjRlMi00YmYxLWFhZDgtZjY0OTgwMmMyMTE2IiwidCI6ImFiYjU3ODg3LTNmY2ItNDgyNy1iODJiLThiZjU4ZWRjNTlhYSJ9)
 
