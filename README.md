@@ -63,4 +63,5 @@ Based on the analysis conducted in this project, the following conclusions and r
 By following these recommendations, organizations can potentially reduce attrition rates and create a more stable and productive workforce.
 
 
+Interact with Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODhiMjY4OTAtZjRlMi00YmYxLWFhZDgtZjY0OTgwMmMyMTE2IiwidCI6ImFiYjU3ODg3LTNmY2ItNDgyNy1iODJiLThiZjU4ZWRjNTlhYSJ9)
 
